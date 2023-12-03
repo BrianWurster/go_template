@@ -8,6 +8,6 @@ run:
 clean:
 	@bash ./scripts/clean.sh
 dlv:
-	@bash ./scripts/debug.sh
+	@bash ./scripts/dlv.sh
 test:
 	@bash ./scripts/test.sh
